@@ -1,0 +1,284 @@
+{
+  "ethnicities": [
+    {
+      "ethnicityCode": "1",
+      "ethnicityName": "Kinh",
+      "ethnicityOtherName": "Việt"
+    },
+    {
+      "ethnicityCode": "2",
+      "ethnicityName": "Tày",
+      "ethnicityOtherName": "Thổ, Ngạn, Phén, Thù Lao, Pa Dí, Tày Khao"
+    },
+    {
+      "ethnicityCode": "3",
+      "ethnicityName": "Thái",
+      "ethnicityOtherName": "Tày Đăm, Tày Mười, Tày Thanh, Mán Thanh, Hàng Bông, Tày Mường, Pa Thay, Thổ Đà Bắc"
+    },
+    {
+      "ethnicityCode": "4",
+      "ethnicityName": "Hoa",
+      "ethnicityOtherName": "Hán, Triều Châu, Phúc Kiến, Quảng Đông, Hải Nam, Hạ, Xạ Phạng"
+    },
+    {
+      "ethnicityCode": "5",
+      "ethnicityName": "Khơ-me",
+      "ethnicityOtherName": "Cur, Cul, Cu, Thổ, Việt gốc Miên, Krôm"
+    },
+    {
+      "ethnicityCode": "6",
+      "ethnicityName": "Mường",
+      "ethnicityOtherName": "Mol, Mual, Mọi, Mọi Bi, Ao Tá, Ậu Tá"
+    },
+    {
+      "ethnicityCode": "7",
+      "ethnicityName": "Nùng",
+      "ethnicityOtherName": "Xuồng, Giang, Nùng An, Phàn Sinh, Nùng Cháo, Nùng Lòi, Quý Rim, Khèn Lài"
+    },
+    {
+      "ethnicityCode": "8",
+      "ethnicityName": "HMông",
+      "ethnicityOtherName": "Mèo, Hoa, Mèo Xanh, Mèo Đỏ, Mèo Đen, Ná Mẻo, Mán Trắng"
+    },
+    {
+      "ethnicityCode": "9",
+      "ethnicityName": "Dao",
+      "ethnicityOtherName": "Mán, Động, Trại, Xá, Dìu, Miên, Kiềm, Miền, Quần Trắng, Dao Đỏ, Quần Chẹt, Lô Giang, Dao Tiền, Thanh Y, Lan Tẻn, Đại Bản, Tiểu Bản, Cóc Ngáng, Cóc Mùn, Sơn Đầu"
+    },
+    {
+      "ethnicityCode": "10",
+      "ethnicityName": "Gia-rai",
+      "ethnicityOtherName": "Giơ-rai, Tơ-buăn, Chơ-rai, Hơ-bau, Hđrung, Chor"
+    },
+    {
+      "ethnicityCode": "11",
+      "ethnicityName": "Ngái",
+      "ethnicityOtherName": "Xín, Lê, Đản, Khách Gia"
+    },
+    {
+      "ethnicityCode": "12",
+      "ethnicityName": "Ê-đê",
+      "ethnicityOtherName": "Ra-đê, Đê, Kpạ, A-đham, Krung, Ktul, Đliê Ruê, Blô, Epan, Mđhur, Bih"
+    },
+    {
+      "ethnicityCode": "13",
+      "ethnicityName": "Ba na",
+      "ethnicityOtherName": "Giơ-lar. Tơ-lô, Giơ-lâng, Y-lăng, Rơ-ngao, Krem, Roh, ConKđe, A-la Công, Kpăng Công, Bơ-nâm"
+    },
+    {
+      "ethnicityCode": "14",
+      "ethnicityName": "Xơ-Đăng",
+      "ethnicityOtherName": "Xơ-teng, Hđang, Tơ-đra, Mơ-nâm, Ha-lăng, Ca-dong, Kmrâng, ConLan, Bri-la, Tang"
+    },
+    {
+      "ethnicityCode": "15",
+      "ethnicityName": "Sán Chay",
+      "ethnicityOtherName": "Cao Lan, Sán Chỉ, Mán Cao Lan, Hờn Bạn, Sơn Tử"
+    },
+    {
+      "ethnicityCode": "16",
+      "ethnicityName": "Cơ-ho",
+      "ethnicityOtherName": "Xrê, Nốp, Tu-lốp, Cơ-don, Chil, Lat, Lach, Trinh"
+    },
+    {
+      "ethnicityCode": "17",
+      "ethnicityName": "Chăm",
+      "ethnicityOtherName": "Chàm, Chiêm Thành, Hroi"
+    },
+    {
+      "ethnicityCode": "18",
+      "ethnicityName": "Sán Dìu",
+      "ethnicityOtherName": "Sán Dẻo, Trại, Trại Đất, Mán, Quần Cộc"
+    },
+    {
+      "ethnicityCode": "19",
+      "ethnicityName": "Hrê",
+      "ethnicityOtherName": "Chăm Rê, Chom, Krẹ Luỹ"
+    },
+    {
+      "ethnicityCode": "20",
+      "ethnicityName": "Mnông",
+      "ethnicityOtherName": "Pnông, Nông, Pré, Bu-đâng, ĐiPri, Biat, Gar, Rơ-lam, Chil"
+    },
+    {
+      "ethnicityCode": "21",
+      "ethnicityName": "Ra-glai",
+      "ethnicityOtherName": "Ra-clây, Rai, Noang, La-oang"
+    },
+    {
+      "ethnicityCode": "22",
+      "ethnicityName": "Xtiêng",
+      "ethnicityOtherName": "Xa-điêng"
+    },
+    {
+      "ethnicityCode": "23",
+      "ethnicityName": "Bru-Vân Kiều",
+      "ethnicityOtherName": "Bru, Vân Kiều, Măng Coong, Tri Khùa"
+    },
+    {
+      "ethnicityCode": "24",
+      "ethnicityName": "Thổ",
+      "ethnicityOtherName": "Kẹo, Mọn, Cuối, Họ, Đan Lai, Ly Hà, Tày Pọng, Con Kha, Xá Lá Vàng"
+    },
+    {
+      "ethnicityCode": "25",
+      "ethnicityName": "Giáy",
+      "ethnicityOtherName": "Nhắng, Dẩng, Pầu Thìn Nu Nà, Cùi Chu, Xa"
+    },
+    {
+      "ethnicityCode": "26",
+      "ethnicityName": "Cơ-tu",
+      "ethnicityOtherName": "Ca-tu, Cao, Hạ, Phương, Ca-tang"
+    },
+    {
+      "ethnicityCode": "27",
+      "ethnicityName": "Gié Triêng",
+      "ethnicityOtherName": "Đgiéh, Tareb, Giang Rẫy Pin, Triêng, Treng, Ta-riêng, Ve, Veh, La-ve, Ca-tang"
+    },
+    {
+      "ethnicityCode": "28",
+      "ethnicityName": "Mạ",
+      "ethnicityOtherName": "Châu Mạ, Mạ Ngăn, Mạ Xóp, Mạ Tô, Mạ Krung"
+    },
+    {
+      "ethnicityCode": "29",
+      "ethnicityName": "Khơ-mú",
+      "ethnicityOtherName": "Xá Cẩu, Mứn Xen, Pu Thênh, Tềnh, Tày Hay"
+    },
+    {
+      "ethnicityCode": "30",
+      "ethnicityName": "Co",
+      "ethnicityOtherName": "Cor, Col, Cùa, Trầu"
+    },
+    {
+      "ethnicityCode": "31",
+      "ethnicityName": "Tà-ôi",
+      "ethnicityOtherName": "Tôi-ôi, Pa-co, Pa-hi, Ba-hi"
+    },
+    {
+      "ethnicityCode": "32",
+      "ethnicityName": "Chơ-ro",
+      "ethnicityOtherName": "Dơ-ro, Châu-ro"
+    },
+    {
+      "ethnicityCode": "33",
+      "ethnicityName": "Kháng",
+      "ethnicityOtherName": "Xá Khao, Xá Súa, Xá Dón, Xá Dẩng, Xá Hốc, Xá Ái, Xá Bung, Quảng Lâm"
+    },
+    {
+      "ethnicityCode": "34",
+      "ethnicityName": "Xinh-mun",
+      "ethnicityOtherName": "Puộc, Pụa"
+    },
+    {
+      "ethnicityCode": "35",
+      "ethnicityName": "Hà Nhì",
+      "ethnicityOtherName": "U Ni, Xá U Ni"
+    },
+    {
+      "ethnicityCode": "36",
+      "ethnicityName": "Chu ru",
+      "ethnicityOtherName": "Chơ-ru, Chu"
+    },
+    {
+      "ethnicityCode": "37",
+      "ethnicityName": "Lào",
+      "ethnicityOtherName": "Là Bốc, Lào Nọi"
+    },
+    {
+      "ethnicityCode": "38",
+      "ethnicityName": "La Chí",
+      "ethnicityOtherName": "Cù Tê, La Quả"
+    },
+    {
+      "ethnicityCode": "39",
+      "ethnicityName": "La Ha",
+      "ethnicityOtherName": "Xá Khao, Khlá Phlạo"
+    },
+    {
+      "ethnicityCode": "40",
+      "ethnicityName": "Phù Lá",
+      "ethnicityOtherName": "Bồ Khô Pạ, Mu Di Pạ Xá, Phó, Phổ, Va Xơ"
+    },
+    {
+      "ethnicityCode": "41",
+      "ethnicityName": "La Hủ",
+      "ethnicityOtherName": "Lao, Pu Đang, Khù Xung, Cò Xung, Khả Quy"
+    },
+    {
+      "ethnicityCode": "42",
+      "ethnicityName": "Lự",
+      "ethnicityOtherName": "Lừ, Nhuồn, Duôn"
+    },
+    {
+      "ethnicityCode": "43",
+      "ethnicityName": "Lô Lô",
+      "ethnicityOtherName": "Mun Di"
+    },
+    {
+      "ethnicityCode": "44",
+      "ethnicityName": "Chứt",
+      "ethnicityOtherName": "Sách, Máy, Rục, Mã-liêng, A-rem, Tu vang, Pa-leng, Xơ-Lang, Tơ-hung, Chà-củi, Tắc-củi, U-mo, Xá Lá Vàng"
+    },
+    {
+      "ethnicityCode": "45",
+      "ethnicityName": "Mảng",
+      "ethnicityOtherName": "Mảng Ư, Xá Lá Vàng"
+    },
+    {
+      "ethnicityCode": "46",
+      "ethnicityName": "Pà Thẻn",
+      "ethnicityOtherName": "Pà Hưng, Tống"
+    },
+    {
+      "ethnicityCode": "47",
+      "ethnicityName": "Co Lao",
+      "ethnicityOtherName": "Co Lao"
+    },
+    {
+      "ethnicityCode": "48",
+      "ethnicityName": "Cống",
+      "ethnicityOtherName": "Xắm Khống, Mấng Nhé, Xá Xeng"
+    },
+    {
+      "ethnicityCode": "49",
+      "ethnicityName": "Bố Y",
+      "ethnicityOtherName": "Chủng Chá, Trọng Gia, Tu Di, Tu Din"
+    },
+    {
+      "ethnicityCode": "50",
+      "ethnicityName": "Si La",
+      "ethnicityOtherName": "Cù Dề Xừ, Khả pẻ"
+    },
+    {
+      "ethnicityCode": "51",
+      "ethnicityName": "Pu Péo",
+      "ethnicityOtherName": "Ka Pèo, Pen Ti Lô Lô"
+    },
+    {
+      "ethnicityCode": "52",
+      "ethnicityName": "Brâu",
+      "ethnicityOtherName": "Brao"
+    },
+    {
+      "ethnicityCode": "53",
+      "ethnicityName": "Ơ Đu",
+      "ethnicityOtherName": "Tày Hạt"
+    },
+    {
+      "ethnicityCode": "54",
+      "ethnicityName": "Rơ măm",
+      "ethnicityOtherName": ""
+    },
+    {
+      "ethnicityCode": "55",
+      "ethnicityName": "Người nước ngoài",
+      "ethnicityOtherName": ""
+    },
+    {
+      "ethnicityCode": "99",
+      "ethnicityName": "Không rõ",
+      "ethnicityOtherName": ""
+    }
+  ]
+}
